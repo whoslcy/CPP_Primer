@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# whoslcy .gitignore
+draft.cpp
